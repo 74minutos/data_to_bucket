@@ -15,5 +15,5 @@
 homepage: "https://github.com/74minutos/data_to_bucket"
 documentation: "https://github.com/74minutos/data_to_bucket"
 versions:
-  - sha: 5f8a9c2d1e3b7a6f0d4c8b9e2a1c3d5e7f8a9b0c
+  - sha: 5db121138022c50b540da22b14cfee3684b48186
     changeNotes: Versión inicial funcional 
